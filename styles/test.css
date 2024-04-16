@@ -1,0 +1,89 @@
+.menu {
+    height: 220vh;
+    width: 150px;
+    background-color: #dbe1e7;
+    float: left;
+    border: 1px solid black;
+}
+
+.menu .title .my_picture {
+    background: url('../images/my_pic.png') no-repeat;
+    background-size: 70px auto;
+    height: 70px;
+    width: 70px;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+.title {
+    padding: 20px 15px;
+    background-color: #9ec4fb;
+}
+
+
+.menu ul li {
+    font-size: 1.3em;
+    font-width:300;
+    padding: 10px 5px;
+    color: #2d8bf6;
+    transition: 0.25s;
+}
+
+.menu ul li:hover {
+    background-color: #e29e9e;
+    color: #4a4a4a;
+}
+
+.menu .link{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+  }
+
+.menu .link div {
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}
+
+.menu .link .YouTube {
+    background: url('../images/YouTube-logo.png') no-repeat;
+    background-size: 20px auto;
+}
+
+.menu .link .github {
+    background: url('../images/github-logo.png') no-repeat;
+    background-size: 20px auto;
+}
+
+.menu .link .Instagram {
+    background: url('../images/Instagram-logo.png') no-repeat;
+    background-size: 20px auto;
+}
+
+.menu .link .Linkedin {
+    background: url('../images/linkedin-logo.png') no-repeat;
+    background-size: 20px auto;
+}
+
+.content {
+    width: 100vw;
+    background-color: #E0FFFF;
+    margin-left: 150px;
+    padding: 0px 20px 20px 20px;
+    border: 2px solid black;    
+}
+
+.content .banner {
+    width: 100vw;
+    background-color: #CCCCFF;
+    padding: 10px 10px ;
+    border: 2px solid black;
+}
+
+.content .intro , .content .EA , .content .education , .content .experience , .content .skill , .content .contact , .content .training , .content .language , .content .poster , .content .contact {
+    background-color: #E0FFFF; 
+    padding: 10px 10px;
+}
+
+
