@@ -1,5 +1,5 @@
 .menu {
-    height: 220vh;
+    height: 225vh;
     width: 150px;
     background-color: #dbe1e7;
     float: left;
@@ -20,25 +20,44 @@
     background-color: #9ec4fb;
 }
 
+.menu ul a {
+    font-size: 1.3em;
+    font-width: 300;
+    padding: 10px 5px;
+    text-decoration: none;
+    color: #2d8bf6;
+}
+
+.menu ul p {
+    font-size: 1.3em;
+    font-width: 300;
+    padding: 1px 5px;
+    text-decoration: none;
+}
+
+.menu ul a:hover {
+    background-color: #e29e9e;
+    color: #4a4a4a;
+}
 
 .menu ul li {
     font-size: 1.3em;
-    font-width:300;
+    font-width: 300;
     padding: 10px 5px;
     color: #2d8bf6;
     transition: 0.25s;
 }
 
-.menu ul li:hover {
+.menu ul li :hover {
     background-color: #e29e9e;
     color: #4a4a4a;
 }
 
-.menu .link{
+.menu .link {
     width: 100%;
     position: absolute;
     bottom: 0;
-  }
+}
 
 .menu .link div {
     height: 20px;
@@ -71,19 +90,26 @@
     background-color: #E0FFFF;
     margin-left: 150px;
     padding: 0px 20px 20px 20px;
-    border: 2px solid black;    
+    border: 2px solid black;
 }
 
 .content .banner {
     width: 100vw;
     background-color: #CCCCFF;
-    padding: 10px 10px ;
+    padding: 10px 10px;
     border: 2px solid black;
 }
 
-.content .intro , .content .EA , .content .education , .content .experience , .content .skill , .content .contact , .content .training , .content .language , .content .poster , .content .contact {
-    background-color: #E0FFFF; 
+.content .intro,
+.content .EA,
+.content .education,
+.content .experience,
+.content .skill,
+.content .contact,
+.content .training,
+.content .language,
+.content .poster,
+.content .contact {
+    background-color: #E0FFFF;
     padding: 10px 10px;
 }
-
-
