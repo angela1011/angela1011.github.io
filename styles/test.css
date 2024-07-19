@@ -1,6 +1,6 @@
 .menu {
-    height: 150vh;
-    width: 160px;
+    height: 200vh;
+    width: 200px;
     background-color: #dbe1e7;
     float: left;
     border: 1px solid black;
@@ -88,7 +88,7 @@
 .content {
     width: 100vw;
     background-color: #E0FFFF;
-    margin-left: 170px;
+    margin-left: 205px;
     padding: 0px 20px 20px 20px;
     border: 2px solid black;
 }
