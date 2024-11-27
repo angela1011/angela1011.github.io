@@ -1,5 +1,5 @@
 .menu {
-    height: 130vh;
+    height: 140vh;
     width: 180px;
     background-color: #dbe1e7;
     float: left;
@@ -87,16 +87,16 @@
 
 .content {
     width: 80vw;
-    background-color: #daf8ff; /* #E0FFFF */
+    background-color: #ddf7fd; /* #E0FFFF */
     margin-left: 185px;
-    padding: 0px 20px 20px 20px;
-    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid black;
 }
 
 .content .banner {
     width: 80vw;
     background-color: #feedd9; /* #CCCCFF */
-    padding: 5px 10px;
+    padding: 10px 10px 0px 0px;
     border: 1px solid black;
 }
 
