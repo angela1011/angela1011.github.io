@@ -87,7 +87,7 @@
 
 .content {
     width: 80vw;
-    background-color: #C8F2FC; /* #E0FFFF */
+    background-color: #daf8ff; /* #E0FFFF */
     margin-left: 185px;
     padding: 0px 20px 20px 20px;
     border: 2px solid black;
@@ -101,7 +101,7 @@
 }
 
 
-.content .intro,
+/* .content .intro,
 .content .EA,
 .content .education,
 .content .experience,
@@ -111,6 +111,7 @@
 .content .language,
 .content .poster,
 .content .contact {
-    background-color: #C8F2FC; /* #E0FFFF */
+    background-color: #C8F2FC; 
     padding: 0px 0px;
-}
+} */
+    /* #E0FFFF */
