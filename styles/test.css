@@ -86,7 +86,7 @@
 }
 
 .content {
-    width: 100vw;
+    width: 80vw;
     background-color: #C8F2FC; /* #E0FFFF */
     margin-left: 185px;
     padding: 0px 20px 20px 20px;
@@ -94,7 +94,7 @@
 }
 
 .content .banner {
-    width: 100vw;
+    width: 80vw;
     background-color: #FFF7EE; /* #CCCCFF */
     padding: 10px 10px;
     border: 2px solid black;
