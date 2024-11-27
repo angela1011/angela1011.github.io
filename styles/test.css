@@ -1,5 +1,5 @@
 .menu {
-    height: 150vh;
+    height: 100vh;
     width: 180px;
     background-color: #dbe1e7;
     float: left;
@@ -87,7 +87,7 @@
 
 .content {
     width: 100vw;
-    background-color: #E0FFFF;
+    background-color: #C8F2FC; /* #E0FFFF */
     margin-left: 185px;
     padding: 0px 20px 20px 20px;
     border: 2px solid black;
@@ -95,10 +95,11 @@
 
 .content .banner {
     width: 100vw;
-    background-color: #CCCCFF;
+    background-color: #FFE1C0; /* #CCCCFF */
     padding: 10px 10px;
     border: 2px solid black;
 }
+
 
 .content .intro,
 .content .EA,
