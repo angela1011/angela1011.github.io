@@ -95,7 +95,7 @@
 
 .content .banner {
     width: 100vw;
-    background-color: #FFE1C0; /* #CCCCFF */
+    background-color: #fce6ce; /* #CCCCFF */
     padding: 10px 10px;
     border: 2px solid black;
 }
@@ -111,6 +111,6 @@
 .content .language,
 .content .poster,
 .content .contact {
-    background-color: #E0FFFF;
-    padding: 10px 10px;
+    background-color: #C8F2FC; /* #E0FFFF */
+    padding: 5px 5px;
 }
