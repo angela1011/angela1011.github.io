@@ -96,7 +96,7 @@
 .content .banner {
     width: 80vw;
     background-color: #feedd9; /* #CCCCFF */
-    padding: 10px 10px 0px 0px;
+    padding: 0px 10px 10px 10px;
     border: 1px solid black;
 }
 
