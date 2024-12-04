@@ -101,10 +101,10 @@
     /* padding: 10px 5px; */
     /* padding: 20px 15px; */
     /* border: 1px solid black; */
-    padding-bottom: 0;
     margin: 0; /* 移除 margin */
     padding: 0; /* 移除 padding */
     border: none; /* 移除邊框（如有需要） */
+    padding-left: 20px;
 }
 
 
