@@ -94,9 +94,9 @@
 }
 
 .content .banner {
-    width: 80vw;
+    /* width: 80vw; */
     background-color: #feedd9; /* #CCCCFF */
-    margin-left: 185px;
+    /* margin-left: 185px; */
     /* padding: 0px 10px 10px 10px; */
     /* padding: 10px 5px; */
     /* padding: 20px 15px; */
