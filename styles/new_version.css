@@ -1,0 +1,36 @@
+html {
+  background-color: #CCCCFF;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #E0FFFF;
+  padding: 5px 20px 20px 20px;
+  border: 2px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #2993f5;
+  text-shadow: 3px 3px 1px black;
+}
+
+p {
+  font-size: 20px;
+  line-height: 5px;
+  font-family: arial, sans-serif;
+}
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
