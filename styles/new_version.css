@@ -1,16 +1,28 @@
 html {
-  background-color: #CCCCFF;
+  background-color: #F5F5F5;
 }
 
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FAFAFA;
+  padding: 5px 20px 20px 20px;
+  border: 1px solid black;
+} */
+
+/* html {
+  background-color: #CCCCFF;
+} */
+/* 
 body {
   width: 600px;
   margin: 0 auto;
   background-color: #E0FFFF;
   padding: 5px 20px 20px 20px;
   border: 2px solid black;
-}
+} */
 
-h1 {
+/* h1 {
   margin: 0;
   padding: 20px 0;
   color: #2993f5;
@@ -33,4 +45,4 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-}
+} */
