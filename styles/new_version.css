@@ -1,5 +1,5 @@
 html {
-  background-color: #F5F5F5;
+  background-color: #ffefe0;
 }
 
 body {
@@ -9,6 +9,15 @@ body {
   padding: 5px 20px 20px 20px;
   border: 1px solid black;
 } 
+
+.my_picture {
+  background: url('../images/my_pic.png') no-repeat;
+  background-size: 70px auto;
+  height: 70px;
+  width: 70px;
+  border-radius: 25px;
+  display: inline-block;
+}
 
 /* html {
   background-color: #CCCCFF;
