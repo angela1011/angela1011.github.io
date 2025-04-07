@@ -2,56 +2,86 @@ html {
   background-color: #ffefe0;
 }
 
-body {
+.menu {
+  height: 70PX;
+  /*   width: 100vh; */
+  /*   background-color: #dbe1e7; */
+  /*   font-family: system-ui; */
+  text-align:right;
+  border: none; /* 移除邊框（如有需要） */
+/*   padding: 5px 5px 5px 5px; */
+  margin: 1em;
+}
+
+.menu ul a {
+  background-color: #dbe1e7 ;
+  text-align: center;
+  font-size: 1.3em;
+  padding: 15px 15px 15px 20px;
+  text-decoration: none;
+  color: #2d8bf6;
+}
+
+p {
+/*   font-family: system-ui; */
+  text-align: left;
+  color: #e29e9e;
+  font-size: 1.8em;
+  padding: 5px 20px;
+  text-decoration: none;
+}
+
+.menu ul p {
+/*   font-family: system-ui; */
+  text-align: left;
+/*   font-size: 1.3em; */
+/*   font-width: 300; */
+/*   padding: 1px 5px; */
+  text-decoration: none;
+}
+
+.menu ul a:hover {
+  background-color: #e29e9e;
+  color: #4a4a4a;
+}
+
+/* body {
+  font-family: system-ui;
+  color: black;
+  text-align:center;
   width: 600px;
   margin: 0 auto;
   background-color: #FAFAFA;
   padding: 5px 20px 20px 20px;
   border: 1px solid black;
-} 
+}  */
+
+
+.my_pic {
+  background: url('https://github.com/angela1011/angela1011.github.io/blob/master/images/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%82%E1%85%B5%E1%86%B7%201.JPG?raw=true') no-repeat;
+  background-size: 180px auto;
+  height: 230px;
+  width: 180px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 1em;
+  margin-top: -100px;
+}
 
 .my_picture {
-  background: url('../images/my_pic.png') no-repeat;
+   background: url('https://raw.githubusercontent.com/angela1011/angela1011.github.io/refs/heads/master/images/molly.png') no-repeat;
   background-size: 70px auto;
   height: 70px;
   width: 70px;
   border-radius: 25px;
   display: inline-block;
+  margin: 1em;
 }
 
-/* html {
-  background-color: #CCCCFF;
-} */
-/* 
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: #E0FFFF;
-  padding: 5px 20px 20px 20px;
-  border: 2px solid black;
-} */
-
-/* h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #2993f5;
-  text-shadow: 3px 3px 1px black;
+.content {
+  /*   width: 100vw; */
+  background-color: #FAFAFA; 
+  padding: 20px 20px 20px 20px;
+  border: 1px solid black;
+  margin: 10px 0px 10px 250px;
 }
-
-p {
-  font-size: 20px;
-  line-height: 5px;
-  font-family: arial, sans-serif;
-}
-
-a:link {
-  color: pink;
-}
-
-a:visited {
-  color: green;
-}
-
-a:hover {
-  text-decoration: none;
-} */
